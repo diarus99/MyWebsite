@@ -1,5 +1,5 @@
 header {
-  padding: 20px ;
+  padding: 5px ;
 }
 
 header nav {
@@ -23,9 +23,17 @@ header .row{
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  background-image:url('https://www.setaswall.com/wp-content/uploads/2017/03/Mountain-Way-4K-Ultra-HD-Wallpaper-3840x2160.jpg');
   background-size: cover;
   color: #ffffff;
-  height: 500px;
+  height: 100%;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.col-md-6 {
+  margin: 0 0 30px;
+}
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
 }
