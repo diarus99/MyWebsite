@@ -11,3 +11,11 @@ header .row{
   display: flex;
   align-items: center;
 }
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
