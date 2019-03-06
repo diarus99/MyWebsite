@@ -55,3 +55,6 @@ footer li img {
   width: 32px;
   height: 32px;
 }
+html {
+  scroll-behavior: smooth;
+ }
